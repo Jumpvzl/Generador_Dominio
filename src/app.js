@@ -20,7 +20,8 @@ ourbigjogger.com   =  [1][1][0]
 ourbigracoon.com   =  [1][1][1]
 */
 
-window.onload = function() {
+//Se le agrego un nombre a la funcion
+window.onload = function Generador_De_Dominios() {
   //write your code here
   let cadena = " ";
   for (let i = 0; i <= pronoun.length - 1; i++) {
