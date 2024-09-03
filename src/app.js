@@ -30,6 +30,6 @@ window.onload = function() {
       }
     }
   }
-  const list = document.getElementById("list");
-  list.innerHTML = '<li class="list-group-item">' + cadena + "</li>";
+  const LIST = document.getElementById("list");
+  LIST.innerHTML = '<li class="list-group-item">' + cadena + "</li>";
 };
